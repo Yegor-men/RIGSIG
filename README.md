@@ -1,2 +1,2 @@
-# RIGSD
-Resolution Invariant Gaussian Splatting Diffusion
+# RIGSIG
+Resolution Invariant Gaussian Splatting Image Generation
